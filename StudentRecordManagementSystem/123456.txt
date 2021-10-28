@@ -1,0 +1,8 @@
+
+Student's ID              :123456
+Student's Name            :John Wick
+Student's Gender          :Male
+Student's Contact Number  :0123456789
+Student's Address         :USA
+Student's Intake          :2021/07
+Student's CGPA            :4.00
